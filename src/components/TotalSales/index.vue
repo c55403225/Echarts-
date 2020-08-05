@@ -50,22 +50,7 @@ export default {
       margin-top: 3px;
       color: #666;
       background: yellow;
-  .buttom-angle{
-      width: 0;
-      height: 0;
-      border-width: 3px;
-      border-color: transparent transparent red transparent;
-      border-style: solid;
-      margin: 0 0  3px 5px;
-    }
-    .top-angle{
-      width: 0;
-      height: 0;
-      border-width: 3px;
-      border-color: green transparent transparent transparent;
-      border-style: solid;
-      margin: 3px 0  0 5px;
-    }
+ 
 }
 
 }
