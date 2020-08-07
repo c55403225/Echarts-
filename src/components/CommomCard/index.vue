@@ -48,7 +48,8 @@ export default {
   color:#333;
   font-weight: 700;
   margin-left: 5px;
-   .buttom-angle{
+}
+.buttom-angle{
       width: 0;
       height: 0;
       border-width: 3px;
@@ -63,6 +64,5 @@ export default {
       border-color: green transparent transparent transparent;
       border-style: solid;
       margin: 3px 0  0 5px;
-    }
-}
+    } 
 </style>

@@ -48,10 +48,8 @@ export default {
       align-items: center;
       font-size: 12px;
       margin-top: 3px;
-      color: #666;
-      background: yellow;
- 
-}
+      color: #666;  
+      }
 
 }
 
